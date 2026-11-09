@@ -195,4 +195,4 @@ This repository serves as the official landing page for Evri Toolbar IE. The sof
 **Get the most recent version of Evri Toolbar IE today!**
 
 ---
-**Last updated:** 2026-11-09 09:18:53 UTC
+**Last updated:** 2026-11-09 20:29:19 UTC
